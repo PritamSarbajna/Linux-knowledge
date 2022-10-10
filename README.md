@@ -1,7 +1,8 @@
 # Linux-commands
 
+Here I'm documenting most of the linux commands.
 
-
+> It is not a cheatsheet. It's more like _what I'm learning just keeping notes_.
 
 
 
