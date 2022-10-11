@@ -1,8 +1,8 @@
-# Linux-commands
+# Linux-knowledge
 
-Here I'm documenting most of the linux commands.
+Here I'm documenting linux knowledges.
 
-> It is not a cheatsheet. It's more like _what I'm learning just keeping notes_.
+> what I'm learning just keeping notes.
 
 
 
