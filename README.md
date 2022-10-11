@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90236635/195104661-bcee1772-9776-404f-ac91-9db8668ba592.png" width="30%" >
+</p>
+
 # Linux-knowledge
 
 Here I'm documenting linux knowledges.
